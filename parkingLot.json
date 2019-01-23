@@ -1,0 +1,74 @@
+{
+  "ONE": {
+    "size": "SMALL",
+    "type": "REGULAR",
+    "level": "First",
+    "count": 2
+  },
+  "TWO": {
+    "size": "SMALL",
+    "type": "HANDICAPPED",
+    "level": "First",
+    "count": 2
+  },
+  "THREE": {
+    "size": "MEDIUM",
+    "type": "REGULAR",
+    "level": "First",
+    "count": 2
+  },
+  "FOUR": {
+    "size": "MEDIUM",
+    "type": "HANDICAPPED",
+    "level": "First",
+    "count": 2
+  },
+  "FIVE": {
+    "size": "LARGE",
+    "type": "REGULAR",
+    "level": "First",
+    "count": 2
+  },
+  "SIX": {
+    "size": "LARGE",
+    "type": "HANDICAPPED",
+    "level": "First",
+    "count": 2
+  },
+  "SEVEN": {
+    "size": "SMALL",
+    "type": "REGULAR",
+    "level": "Second",
+    "count": 2
+  },
+  "EIGHT": {
+    "size": "SMALL",
+    "type": "HANDICAPPED",
+    "level": "Second",
+    "count": 2
+  },
+  "NINE": {
+    "size": "MEDIUM",
+    "type": "REGULAR",
+    "level": "Second",
+    "count": 2
+  },
+  "TEN": {
+    "size": "MEDIUM",
+    "type": "HANDICAPPED",
+    "level": "Second",
+    "count": 2
+  },
+  "ELEVEN": {
+    "size": "LARGE",
+    "type": "REGULAR",
+    "level": "Second",
+    "count": 2
+  },
+  "TWELVE": {
+    "size": "LARGE",
+    "type": "HANDICAPPED",
+    "level": "Second",
+    "count": 2
+  }
+}
