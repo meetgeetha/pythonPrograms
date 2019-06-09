@@ -1,14 +1,22 @@
 pipeline {
     agent any
+    options {
+        skipStagesAfterUnstable()
+    }
     stages {
         stage('Build') {
             steps {
-                sh 'echo "Hello World"'
-                sh '''
-                    echo "Multiline shell steps works too"
-                    ls -lah
-		    touch /tmp/oaklandas.txt
-                '''
+                echo 'Building'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying'
             }
         }
     }
